@@ -1,6 +1,6 @@
 Hi,
 
-Peter_Scaife_P7 is a google colab notebook containing all the code from preprocessing to prediction
+P7_notebook is a google colab notebook containing all the code from preprocessing to prediction
 
 P7.py uses streamlit for a credit rating dashboard
 
