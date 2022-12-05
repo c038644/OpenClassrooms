@@ -10,6 +10,6 @@ app.py uses flask for the back end
 
 The working dashboard is available on streamlit share: https://c038644-git-main-4wr9um.streamlitapp.com/
 
-The back end runs on heroku see: https://c038644.herokuapp.com/
+The back end runs on heroku
 
 Thanks.
